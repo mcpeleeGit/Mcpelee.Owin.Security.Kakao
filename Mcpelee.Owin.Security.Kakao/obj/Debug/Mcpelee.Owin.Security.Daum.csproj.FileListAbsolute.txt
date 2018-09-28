@@ -1,0 +1,14 @@
+C:\DEV\WebSite\Mcpelee.Owin.Security.Daum\Mcpelee.Owin.Security.Daum\bin\Debug\Mcpelee.Owin.Security.Daum.dll
+C:\DEV\WebSite\Mcpelee.Owin.Security.Daum\Mcpelee.Owin.Security.Daum\bin\Debug\Mcpelee.Owin.Security.Daum.pdb
+C:\DEV\WebSite\Mcpelee.Owin.Security.Daum\Mcpelee.Owin.Security.Daum\bin\Debug\Microsoft.Owin.dll
+C:\DEV\WebSite\Mcpelee.Owin.Security.Daum\Mcpelee.Owin.Security.Daum\bin\Debug\Microsoft.Owin.Security.dll
+C:\DEV\WebSite\Mcpelee.Owin.Security.Daum\Mcpelee.Owin.Security.Daum\bin\Debug\Newtonsoft.Json.dll
+C:\DEV\WebSite\Mcpelee.Owin.Security.Daum\Mcpelee.Owin.Security.Daum\bin\Debug\Owin.dll
+C:\DEV\WebSite\Mcpelee.Owin.Security.Daum\Mcpelee.Owin.Security.Daum\bin\Debug\Microsoft.Owin.xml
+C:\DEV\WebSite\Mcpelee.Owin.Security.Daum\Mcpelee.Owin.Security.Daum\bin\Debug\Microsoft.Owin.Security.xml
+C:\DEV\WebSite\Mcpelee.Owin.Security.Daum\Mcpelee.Owin.Security.Daum\bin\Debug\Newtonsoft.Json.xml
+C:\DEV\WebSite\Mcpelee.Owin.Security.Daum\Mcpelee.Owin.Security.Daum\obj\Debug\Mcpelee.Owin.Security.Daum.csprojResolveAssemblyReference.cache
+C:\DEV\WebSite\Mcpelee.Owin.Security.Daum\Mcpelee.Owin.Security.Daum\obj\Debug\Mcpelee.Owin.Security.Daum.Resources.resources
+C:\DEV\WebSite\Mcpelee.Owin.Security.Daum\Mcpelee.Owin.Security.Daum\obj\Debug\Mcpelee.Owin.Security.Daum.csproj.GenerateResource.Cache
+C:\DEV\WebSite\Mcpelee.Owin.Security.Daum\Mcpelee.Owin.Security.Daum\obj\Debug\Mcpelee.Owin.Security.Daum.dll
+C:\DEV\WebSite\Mcpelee.Owin.Security.Daum\Mcpelee.Owin.Security.Daum\obj\Debug\Mcpelee.Owin.Security.Daum.pdb

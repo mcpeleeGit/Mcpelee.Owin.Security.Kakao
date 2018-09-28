@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Mcpelee.Owin.Security.Kakao</id>
+    <version>1.0.0</version>
+    <title>Mcpelee.Owin.Security.Kakao</title>
+    <authors>mcpelee</authors>
+    <owners>mcpelee</owners>
+    <licenseUrl>https://github.com/mcpeleeGit/Mcpelee.Owin.Security.Kakao/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/mcpeleeGit/Mcpelee.Owin.Security.Kakao</projectUrl>
+    <iconUrl>http://www.adprint.jp/favicon.ico</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Middleware that enables an application to support Kakao's OAuth 2.0 authentication workflow.</description>
+    <releaseNotes>first release</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>Daum Owin</tags>
+  </metadata>
+</package>

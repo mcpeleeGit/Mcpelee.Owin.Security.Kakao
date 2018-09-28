@@ -1,0 +1,14 @@
+C:\DEV\WebSite\Mcpelee.Owin.Security.Kakao\Mcpelee.Owin.Security.Kakao\bin\Debug\Microsoft.Owin.dll
+C:\DEV\WebSite\Mcpelee.Owin.Security.Kakao\Mcpelee.Owin.Security.Kakao\bin\Debug\Microsoft.Owin.Security.dll
+C:\DEV\WebSite\Mcpelee.Owin.Security.Kakao\Mcpelee.Owin.Security.Kakao\bin\Debug\Newtonsoft.Json.dll
+C:\DEV\WebSite\Mcpelee.Owin.Security.Kakao\Mcpelee.Owin.Security.Kakao\bin\Debug\Owin.dll
+C:\DEV\WebSite\Mcpelee.Owin.Security.Kakao\Mcpelee.Owin.Security.Kakao\bin\Debug\Microsoft.Owin.xml
+C:\DEV\WebSite\Mcpelee.Owin.Security.Kakao\Mcpelee.Owin.Security.Kakao\bin\Debug\Microsoft.Owin.Security.xml
+C:\DEV\WebSite\Mcpelee.Owin.Security.Kakao\Mcpelee.Owin.Security.Kakao\bin\Debug\Newtonsoft.Json.xml
+C:\DEV\WebSite\Mcpelee.Owin.Security.Kakao\Mcpelee.Owin.Security.Kakao\obj\Debug\Mcpelee.Owin.Security.Kakao.csproj.GenerateResource.Cache
+C:\DEV\WebSite\Mcpelee.Owin.Security.Kakao\Mcpelee.Owin.Security.Kakao\bin\Debug\Mcpelee.Owin.Security.Kakao.dll
+C:\DEV\WebSite\Mcpelee.Owin.Security.Kakao\Mcpelee.Owin.Security.Kakao\bin\Debug\Mcpelee.Owin.Security.Kakao.pdb
+C:\DEV\WebSite\Mcpelee.Owin.Security.Kakao\Mcpelee.Owin.Security.Kakao\obj\Debug\Mcpelee.Owin.Security.Kakao.Resources.resources
+C:\DEV\WebSite\Mcpelee.Owin.Security.Kakao\Mcpelee.Owin.Security.Kakao\obj\Debug\Mcpelee.Owin.Security.Kakao.dll
+C:\DEV\WebSite\Mcpelee.Owin.Security.Kakao\Mcpelee.Owin.Security.Kakao\obj\Debug\Mcpelee.Owin.Security.Kakao.pdb
+C:\DEV\WebSite\Mcpelee.Owin.Security.Kakao\Mcpelee.Owin.Security.Kakao\obj\Debug\Mcpelee.Owin.Security.Kakao.csprojResolveAssemblyReference.cache
